@@ -1,0 +1,23 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.google {
+  position: absolute;
+  left: 660px;
+  top: 190px;
+}
+
+.top-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; margin-right: 10px;
+}
+
+.top-items {
+  margin-right: 15px;
+}
+
+.apps {
+  margin-top: 15px;
+}
